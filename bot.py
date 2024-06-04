@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # Substitua 'your_token_here' pelo token do seu bot
-TOKEN = 'your_token_here'
+TOKEN = 'MTI0NzQzMzQ2MzA1ODAxMDE3NA.GwXcIG.mXvu206MlClM8xGCdcVFyH5G_9u6Cr0yMtNpNE'
 
 # Configurações do bot
 intents = discord.Intents.default()
