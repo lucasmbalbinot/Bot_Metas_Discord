@@ -1,7 +1,0 @@
-discord-meta-bot/
-├── bot.py
-├── db.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── LICENSE
